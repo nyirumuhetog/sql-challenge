@@ -6,7 +6,8 @@ Data modeling, data engineering, and data analysis
 
 ## Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD
-![QuickDBD-Diagram.png](ERD image/QuickDBD-Diagram.png)
+![QuickDBD-Diagram](https://github.com/nyirumuhetog/sql-challenge/assets/130715611/f47ec1a3-5b9b-43d5-82da-d0845ec33b19)
+
 
 ## Data Analysis
 
