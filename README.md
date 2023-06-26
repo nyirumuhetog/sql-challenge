@@ -8,6 +8,15 @@ Data modeling, data engineering, and data analysis
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD
 ![QuickDBD-Diagram](https://github.com/nyirumuhetog/sql-challenge/assets/130715611/f47ec1a3-5b9b-43d5-82da-d0845ec33b19)
 
+## Data Engineering
+
+Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
+
+Remember to specify the data types, primary keys, foreign keys, and other constraints. Be sure to create the tables in the correct order to handle the foreign keys.
+Import each CSV file into its corresponding SQL table.
+
+
+
 
 ## Data Analysis
 
